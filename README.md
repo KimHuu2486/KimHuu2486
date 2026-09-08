@@ -2,9 +2,9 @@
 
 # Hi, I'm Kim Huu Tran 👋
 
-### Computer Science Student · AI / Machine Learning
+### Computer Science Student · AI Research & Engineering
 
-I am interested in building intelligent systems for **Computer Vision**, **Deep Learning**, **Document AI**, and **Multimodal Learning**.
+Interested in **Computer Vision**, **Deep Learning**, **Multimodal AI**, **Document Intelligence**, and **Information Retrieval**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KimHuu2486-181717?style=flat&logo=github)](https://github.com/KimHuu2486)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trankimhuu2006@gmail.com)
@@ -15,65 +15,21 @@ I am interested in building intelligent systems for **Computer Vision**, **Deep 
 
 ## About Me
 
-I am a Computer Science student focused on **Artificial Intelligence and Machine Learning**, with particular interest in research-oriented projects and practical AI systems.
+I'm a Computer Science student interested in both the **research** and **engineering** sides of Artificial Intelligence. I enjoy designing experiments, evaluating models, and building practical AI systems for visual and multimodal data.
 
-My work spans areas such as:
+### Research Interests
 
-- Computer Vision
-- Deep Learning
-- Document AI
-- Handwritten Text Recognition
-- Multimodal Learning
-- Information Retrieval
-- Machine Learning ensembles
-
-I enjoy exploring both the **research** and **engineering** sides of AI: designing experiments, evaluating models, building reproducible pipelines, and turning ideas into working systems.
+`Computer Vision` · `Deep Learning` · `Multimodal Learning` · `Document AI` · `Information Retrieval` · `Machine Learning`
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 🛡️ [Malware Classification](https://github.com/KimHuu2486/Malware-Classification)
-
-A comprehensive study of **Machine Learning, Deep Learning, and ensemble methods** for malware-family classification using `.bytes` and `.asm` representations.
-
-Highlights:
-
-- Multi-view static feature engineering
-- XGBoost and LightGBM stacking
-- Swin Transformer, ResNet, DeiT, LeViT, EfficientNet, and ConvNeXt experiments
-- Out-of-fold prediction pipelines
-- Pseudo-labeling
-- ML–DL probability and feature fusion
-- **Best recorded Kaggle private log loss: 0.00467**
-
-`PyTorch` · `XGBoost` · `LightGBM` · `Computer Vision` · `Ensemble Learning`
-
----
-
-### ✍️ [Handwritten to Data — Ukraine](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine)
-
-Research and experimentation for **Ukrainian handwritten text recognition and document understanding**.
-
-The project explores:
-
-- Document region detection
-- Handwritten / printed text classification
-- OCR and HTR
-- Text transcription
-- Vision-Language Models
-- Semi-supervised learning
-- Pseudo-labeling
-
-`Document AI` · `OCR` · `HTR` · `Computer Vision` · `VLM`
-
----
-
-### 🤖 [Machine Learning](https://github.com/KimHuu2486/MachineLearning)
-
-A collection of implementations and experiments developed while studying and applying core Machine Learning concepts.
-
-`Python` · `Machine Learning` · `Data Science`
+| Project | Focus | Main Technologies |
+|---|---|---|
+| [**Malware Classification**](https://github.com/KimHuu2486/Malware-Classification) | Multi-view ML/DL approaches for malware-family classification | PyTorch, XGBoost, LightGBM |
+| [**Handwritten to Data — Ukraine**](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine) | Handwritten text recognition and document understanding | OCR, HTR, VLM |
+| [**Machine Learning**](https://github.com/KimHuu2486/MachineLearning) | Machine Learning implementations and experiments | Python, scikit-learn |
 
 ---
 
@@ -107,7 +63,6 @@ A collection of implementations and experiments developed while studying and app
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KimHuu2486&show_icons=true&hide_border=true" alt="GitHub stats" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHuu2486&layout=compact&hide_border=true" alt="Top languages" />
 
 </div>
@@ -116,6 +71,6 @@ A collection of implementations and experiments developed while studying and app
 
 <div align="center">
 
-### Let's build something meaningful with AI.
+**Building, learning, and exploring intelligent systems.**
 
 </div>
