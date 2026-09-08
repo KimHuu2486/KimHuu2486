@@ -28,13 +28,13 @@ I'm a Computer Science student interested in both the **research** and **enginee
 | Project | Focus | Main Technologies | Status |
 |---|---|---|---|
 | **Deep Learning** 🔒 | Neural networks and deep learning study repository | Python, NumPy, Deep Learning | 🚧 Processing |
-| **AIC 2026** 🔒 | Multimodal video retrieval system for AI Challenge 2026 | SigLIP2, FAISS, Elasticsearch, React | — |
-| [**Processing PDF**](https://github.com/KimHuu2486/Processing_PDF) | Privacy-focused client-side PDF tools | React, TypeScript, PDF.js | — |
-| [**LeetCode**](https://github.com/KimHuu2486/LeetCode) | Algorithm and data structure practice | C++, Python | — |
-| [**Handwritten to Data — Ukraine**](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine) | Handwritten text recognition and document understanding | OCR, HTR, VLM | — |
-| [**Malware Classification**](https://github.com/KimHuu2486/Malware-Classification) | Multi-view ML/DL approaches for malware-family classification | PyTorch, XGBoost, LightGBM | — |
-| [**Machine Learning**](https://github.com/KimHuu2486/MachineLearning) | Machine Learning implementations and experiments | Python, scikit-learn | — |
-| [**Remote Desktop App**](https://github.com/KimHuu2486/RemoteDesktopApp) | Remote desktop control and monitoring system | C++, Node.js, WebSocket | — |
+| **AIC 2026** 🔒 | Multimodal video retrieval system for AI Challenge 2026 | SigLIP2, FAISS, Elasticsearch, React | ✅ Completed |
+| [**Processing PDF**](https://github.com/KimHuu2486/Processing_PDF) | Privacy-focused client-side PDF tools | React, TypeScript, PDF.js | ✅ Completed |
+| [**LeetCode**](https://github.com/KimHuu2486/LeetCode) | Algorithm and data structure practice | C++, Python | ✅ Completed |
+| [**Handwritten to Data — Ukraine**](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine) | Handwritten text recognition and document understanding | OCR, HTR, VLM | ✅ Completed |
+| [**Malware Classification**](https://github.com/KimHuu2486/Malware-Classification) | Multi-view ML/DL approaches for malware-family classification | PyTorch, XGBoost, LightGBM | ✅ Completed |
+| [**Machine Learning**](https://github.com/KimHuu2486/MachineLearning) | Machine Learning implementations and experiments | Python, scikit-learn | ✅ Completed |
+| [**Remote Desktop App**](https://github.com/KimHuu2486/RemoteDesktopApp) | Remote desktop control and monitoring system | C++, Node.js, WebSocket | ✅ Completed |
 
 ---
 
@@ -60,17 +60,6 @@ I'm a Computer Science student interested in both the **research** and **enginee
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KimHuu2486&show_icons=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHuu2486&layout=compact&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
