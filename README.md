@@ -15,7 +15,7 @@ Interested in **Computer Vision**, **Deep Learning**, **Multimodal AI**, **Docum
 
 ## About Me
 
-I'm a Computer Science student interested in both the **research** and **engineering** sides of Artificial Intelligence. I enjoy designing experiments, evaluating models, and building practical AI systems for visual and multimodal data.
+I'm a Computer Science student interested in both the **research** and **engineering** sides of Artificial Intelligence. My work focuses on **Computer Vision, multimodal retrieval, document intelligence, and machine learning systems**. I enjoy designing reproducible experiments, evaluating models rigorously, and building practical AI systems for real-world problems.
 
 ### Research Interests
 
