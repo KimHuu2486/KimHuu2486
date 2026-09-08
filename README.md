@@ -23,18 +23,18 @@ I'm a Computer Science student interested in both the **research** and **enginee
 
 ---
 
-## Selected Projects
+## Selected Work
 
 | Project | Focus | Main Technologies | Status |
 |---|---|---|---|
-| [**Malware Classification**](https://github.com/KimHuu2486/Malware-Classification) | Multi-view ML/DL approaches for malware-family classification | PyTorch, XGBoost, LightGBM | — |
-| [**Handwritten to Data — Ukraine**](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine) | Handwritten text recognition and document understanding | OCR, HTR, VLM | — |
-| [**Machine Learning**](https://github.com/KimHuu2486/MachineLearning) | Machine Learning implementations and experiments | Python, scikit-learn | — |
+| **Deep Learning** 🔒 | Neural networks and deep learning study repository | Python, NumPy, Deep Learning | 🚧 Processing |
 | **AIC 2026** 🔒 | Multimodal video retrieval system for AI Challenge 2026 | SigLIP2, FAISS, Elasticsearch, React | — |
 | [**Processing PDF**](https://github.com/KimHuu2486/Processing_PDF) | Privacy-focused client-side PDF tools | React, TypeScript, PDF.js | — |
 | [**LeetCode**](https://github.com/KimHuu2486/LeetCode) | Algorithm and data structure practice | C++, Python | — |
+| [**Handwritten to Data — Ukraine**](https://github.com/KimHuu2486/Handwritten_to_Data_Ukraine) | Handwritten text recognition and document understanding | OCR, HTR, VLM | — |
+| [**Malware Classification**](https://github.com/KimHuu2486/Malware-Classification) | Multi-view ML/DL approaches for malware-family classification | PyTorch, XGBoost, LightGBM | — |
+| [**Machine Learning**](https://github.com/KimHuu2486/MachineLearning) | Machine Learning implementations and experiments | Python, scikit-learn | — |
 | [**Remote Desktop App**](https://github.com/KimHuu2486/RemoteDesktopApp) | Remote desktop control and monitoring system | C++, Node.js, WebSocket | — |
-| **Deep Learning** 🔒 | Neural networks and deep learning study repository | Python, NumPy, Deep Learning | 🚧 Processing |
 
 ---
 
