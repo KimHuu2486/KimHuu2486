@@ -6,6 +6,7 @@
 
 Interested in **Computer Vision**, **Deep Learning**, **Multimodal AI**, **Document Intelligence**, and **Information Retrieval**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimhuu2486.github.io-285579?style=flat&logo=googlechrome&logoColor=white)](https://kimhuu2486.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-KimHuu2486-181717?style=flat&logo=github)](https://github.com/KimHuu2486)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trankimhuu2006@gmail.com)
 
